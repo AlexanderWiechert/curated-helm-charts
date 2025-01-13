@@ -13,7 +13,7 @@
 # limitations under the License.
 
 
-FROM alpine:3.18.4
+FROM alpine:3.21.2
 
 MAINTAINER Anirudh Ramanathan <foxish@google.com>
 
